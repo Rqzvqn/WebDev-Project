@@ -1,7 +1,5 @@
 # WebDevelopment 1 Assignment - Game Store - 671169
 
-I couldnt manage to host the website with 000webhost. I have tried multiple times and I have also tried other hosts like Azure and infinityfree but still no luck.
-
 The website works locally with docker.
 
 Testing Credentials
